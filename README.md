@@ -1,4 +1,4 @@
-[![Maintainability](https://api.codeclimate.com/v1/badges/d3fff4c65a91eeff591a/maintainability)](https://codeclimate.com/github/AlexandreTK/Test_2_Sistel/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/7a487f2151db2ae3ad57/maintainability)](https://codeclimate.com/github/lappis-unb/SisTel/maintainability)
 
 # SisTel
 Sistema de gestão telefonica com integração ao LDAP e SEI.
